@@ -1,0 +1,1 @@
+{"name":"english-output-trainer","version":"0.6.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"dotenv":"^16.6.1","express":"^5.1.0","openai":"^5.20.0"}}
